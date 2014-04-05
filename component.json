@@ -1,0 +1,23 @@
+{
+  "name": "vue-component-practice",
+  "repo": "tan-yuki/vue-component-practice",
+  "description": "This is the sample project for vue and component study",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component/jquery": "*",
+    "yyx990803/vue": "*"
+  },
+  "license": "MIT",
+  "main": "src/main.js",
+  "scripts": [
+    "src/main.js"
+  ],
+  "paths": [
+      "src/components"
+  ],
+  "local": [
+      "one",
+      "two"
+  ]
+}
