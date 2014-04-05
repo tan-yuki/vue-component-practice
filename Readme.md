@@ -1,16 +1,6 @@
+## vue-component-practice
 
-# vue-chat
-
-  This is sample project for vue.js study
-
-## Installation
-
-  Install with [component(1)](http://component.io):
-
-    $ component install tan-yuki/vue-chat
-
-## API
-
+This is a sample project using component.
 
 
 ## License
