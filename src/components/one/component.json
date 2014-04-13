@@ -1,0 +1,8 @@
+{
+  "name": "one",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "templates": ["template.html"]
+}
