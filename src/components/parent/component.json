@@ -1,10 +1,8 @@
 {
-  "name": "two",
+  "name": "parent",
   "main": "index.js",
   "scripts": [
     "index.js"
   ],
-  "templates": [
-    "template.html"
-  ]
+  "templates": ["template.html"]
 }

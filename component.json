@@ -6,7 +6,8 @@
   "keywords": [],
   "dependencies": {
     "component/jquery": "*",
-    "yyx990803/vue": "*"
+    "yyx990803/vue": "*",
+    "lodash/lodash": "*"
   },
   "license": "MIT",
   "main": "src/main.js",
@@ -14,10 +15,11 @@
     "src/main.js"
   ],
   "paths": [
-      "src/components"
+    "src/components"
   ],
   "local": [
-      "one",
-      "two"
+    "one",
+    "two",
+    "parent"
   ]
 }

@@ -4,5 +4,7 @@
   "scripts": [
     "index.js"
   ],
-  "templates": ["template.html"]
+  "templates": [
+    "template.html"
+  ]
 }

@@ -1,18 +1,12 @@
-module.exports = {
-    template: require('./template.html'),
+var _ = require('/lodash');
+var parents = require('/parent');
 
+module.exports = _.extend({}, parents, {
     data: {
         list: [
-            "This",
-            "is",
-            "two"
+            'This',
+            'is',
+            'two'
         ]
-    },
-
-    computed: {
-        msg: function() {
-            return this.list.join(' ');
-        }
     }
-};
-
+});
